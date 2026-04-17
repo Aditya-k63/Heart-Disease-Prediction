@@ -67,7 +67,7 @@ Threshold **0.40** was selected because it:
 
 ---
 
-## 📊 Final Performance Metrics
+##  Final Performance Metrics
 
 | Metric                        | Score |
 | :---------------------------- | :---- |
@@ -79,7 +79,7 @@ Threshold **0.40** was selected because it:
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+##  Tech Stack & Methodology
 
 * **Python / Scikit-Learn:** Core ML pipeline
 * **XGBoost:** Feature importance validation
